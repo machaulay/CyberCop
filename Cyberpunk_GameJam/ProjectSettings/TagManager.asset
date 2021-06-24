@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - console
+  - finish
+  - heightIn
+  - heightOut
+  - dano
+  - Inimigo
+  - barreira
+  - console2
+  - console3
+  - finish2
+  - finish3
+  - morteQueda
+  - bannerBloqueio
+  - limiteTiro
+  - boss
+  - barreiraBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - platform
+  - Player
+  - parede
+  - grid
+  - console
+  - backGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backGround
+    uniqueID: 3471509813
+    locked: 0
+  - name: level
+    uniqueID: 697089457
+    locked: 0
+  - name: NPC
+    uniqueID: 2904882497
+    locked: 0
+  - name: Player
+    uniqueID: 1059987391
+    locked: 0
+  - name: Console
+    uniqueID: 55908447
+    locked: 0
